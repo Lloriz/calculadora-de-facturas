@@ -1,4 +1,4 @@
-# calculadora-de-impuestos
+# calculadora-de-facturas
 V 1.0
 
 # Requisitos
