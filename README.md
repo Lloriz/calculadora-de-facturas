@@ -1,6 +1,8 @@
 # calculadora-de-facturas
 V 1.0
 
+Maravillosa calculadora de facturas para autónomos.
+
 # Requisitos
 
 ·Python 3.11
