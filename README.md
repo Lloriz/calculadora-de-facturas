@@ -2,6 +2,7 @@
 V 1.0
 
 # Requisitos
+
 ·Python 3.11
 
 ·Python module Tkinter
